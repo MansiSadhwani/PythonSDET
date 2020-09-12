@@ -17,7 +17,7 @@ class Cars:
 
 c1 = Cars("Maruti","Celerio",2015,"Manual","Silver")
 c2 = Cars("Honda","City",2018,"Manual","Black")
-c3 = Cars("Maruti","Creta",2017,"Automatic","white")
+c3 = Cars("Hyundai","Creta",2017,"Automatic","white")
 
 c3.accelerate()
 c3.stop()
